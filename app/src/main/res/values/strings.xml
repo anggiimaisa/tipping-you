@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">count-my-tip</string>
+    <string name="enter_your_bill">Enter your bill:</string>
+    <string name="tipping">Tipping!</string>
+    <string name="dollar">$</string>
+    <string name="choose_your_tip">Choose your tip:</string>
+    <string name="percentage">%</string>
+    <string name="split_with_your_friend">Split with your Friend</string>
+    <string name="split_default_value">1</string>
+    <string name="total_per_person">Total per person:</string>
+    <string name="bill">Bill:</string>
+    <string name="tip">Tip:</string>
+    <string name="default_value">$0</string>
+</resources>
